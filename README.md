@@ -5,6 +5,10 @@ Due to the unexpected rise of COVID-19 in Feb 2020, people all over the world ha
 
 According to our observation, we found that users of recipe-recommendation websites drastically increased during the past few months. Thus, we choose the food recipe website as a focus of our project. Instead of covering all recipes online, we will study bakery recipes in particular, since it is by far the most popular category and has quite a lot of data to deal with. 
 
+## demo
+
+<img width="1408" alt="homepage" src="https://user-images.githubusercontent.com/67878225/104827534-c1e8d900-582c-11eb-99c6-eb8865eecc75.png">
+
 ## Data Sources
 
 1. [Recipe Ingredients](https://www.kaggle.com/kanaryayi/recipe-ingredients-and-reviews?select=clean_recipes.csv) 
