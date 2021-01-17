@@ -7,7 +7,23 @@ According to our observation, we found that users of recipe-recommendation websi
 
 ## demo
 
+1. Homepage
+
 <img width="1408" alt="homepage" src="https://user-images.githubusercontent.com/67878225/104827534-c1e8d900-582c-11eb-99c6-eb8865eecc75.png">
+
+2. 
+
+![searchOptions](https://user-images.githubusercontent.com/67878225/104827733-0ffedc00-582f-11eb-849a-9ff75ee34695.gif)
+
+3.
+
+![recipe page](https://user-images.githubusercontent.com/67878225/104827737-1db46180-582f-11eb-86f7-2ee4bec51ca2.gif)
+
+4. 
+
+![AuthorRanking](https://user-images.githubusercontent.com/67878225/104827741-29078d00-582f-11eb-9870-be17e9d3d1eb.gif)
+
+
 
 ## Data Sources
 
