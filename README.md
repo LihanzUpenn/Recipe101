@@ -21,7 +21,8 @@ According to our observation, we found that users of recipe-recommendation websi
 
 4. 
 
-![AuthorRanking](https://user-images.githubusercontent.com/67878225/104827741-29078d00-582f-11eb-9870-be17e9d3d1eb.gif)
+![AuthorRanking](https://user-images.githubusercontent.com/67878225/104827751-53f1e100-582f-11eb-8797-ead6fc42be4d.gif)
+
 
 
 
