@@ -65,5 +65,5 @@ In order to connect to our mysql database, we used the following credentials:
   user: "wenyax",
   password: "rootroot",
   database: "project",
-
+ (We stopped the database service on 1/18/2021)
 
